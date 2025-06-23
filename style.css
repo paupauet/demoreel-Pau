@@ -10,11 +10,11 @@ body {
 
 
 .box {
-    width: 500px;
+    width: 600px;
     background: rgba(255, 255, 255, .0);
     margin: 0 auto;
-    margin-top: 5%;
-    padding: 20px;
+    margin-top: 7%;
+    padding: 40px;
     text-align: center;
 }
 
@@ -66,4 +66,20 @@ h2 {
 .box ul li a:hover{
     color: rgb(187, 131, 58);
     transform: scale(1.07);
+}
+
+.contact {
+        color: rgb(187, 131, 58);
+        min-height: calc(100vh - 211px - 58px):
+
+}
+
+footer {
+    text-align: center;
+    padding: 100px;
+    font-family: "Jost", "sans-serif";
+    display: block;
+    
+
+    
 }
